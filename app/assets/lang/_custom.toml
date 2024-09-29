@@ -11,10 +11,10 @@ mediaYouTubeURL = "https://www.youtube.com/@Zyntheor"
 mediaDiscordURL = "https://discord.gg/TuAV8deq8X"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
+sourceGithubLink = "https://github.com/Zyntheor/Fluoriteclient"
 supportLink = "https://github.com/Zyntheor/Fluoriteclient/issues"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO FLUORITE"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
+welcomeDescription = "hi, you are in Fluorite client"
 welcomeDescCTA = "You are just a few clicks away from Fluorite."
