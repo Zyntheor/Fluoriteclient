@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Fluorite client"
+title = "Sharpness client"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/Zyntheor/Fluoriteclient"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/Zyntheor/Fluoriteclient"
 supportLink = "https://github.com/Zyntheor/Fluoriteclient/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO FLUORITE"
-welcomeDescription = "hi, you are in Fluorite client"
-welcomeDescCTA = "You are just a few clicks away from Fluorite."
+welcomeHeader = "WELCOME TO Sharpness"
+welcomeDescription = "hi, you are in Sharpness client"
+welcomeDescCTA = "You are just a few clicks away from Sharpness."
