@@ -1,8 +1,8 @@
-appId: 'fluoritelauncher'
-productName: 'Fluorite Launcher'
+appId: 'Sharpnesslauncher'
+productName: 'Sharpness Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2023-2024 Z4X'
+copyright: 'Copyright © 2023-2026 Z4X'
 
 asar: true
 compression: 'maximum'
